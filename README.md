@@ -11,5 +11,5 @@
 * NumPy
 * Matplotlib
 
-* Instalação *
+**Instalação: **
 * pip install -r requirements.txt
